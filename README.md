@@ -1,1 +1,3 @@
-# Fuzzy_logic
+# Fuzzy logic
+
+Implementation of fuzzy logic with scikit-fuzzy
